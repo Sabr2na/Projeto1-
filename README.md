@@ -17,3 +17,14 @@ Dashboard Interativo:
 
 [Confira aqui o Dashboard do projeto.](https://app.powerbi.com/groups/me/reports/c9252681-c97a-4f37-906a-d3b8696af7c2/ReportSection?experience=power-bi)
 
+
+
+Ferramentas
+Para a execução dessa análise, foram utilizadas algumas ferramentas, tais quais:
+- **SQL**: As consultas foram estruturadas através do *pgAdmin*, utilizando o PostgreSQL. 
+- **Python (Google Colab)**: Para realizar a conexão das tabelas .csv com PostgreSQL. 
+- **Microsoft Power BI**: O dashboard do projeto foi construído com o uso do software, com a necessidade da criação de algumas funções em DAX para a construção das visualizações.
+
+
+
+
