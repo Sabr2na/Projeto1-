@@ -6,3 +6,7 @@ Este projeto consiste em uma análise de dados do Smart Negócios, uma plataform
 
 Para tal, foi utilizado SQL para responder perguntas de negócio e o Power BI para visualização geral dos números disponíveis da empresa, e Python para realizar uma predição dos próximos meses. 
 
+
+
+Dashboard Interativo:
+![image](https://github.com/Sabr2na/Projeto1-/assets/156133566/bba5a9e7-0e4c-44d1-bdc3-fa116291a4fc)
