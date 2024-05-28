@@ -1,4 +1,4 @@
-# Projeto Análise dados Smart negócios 
+# Projeto Análise de dados Smart negócios 
 
 Projeto de análise de dados com SQL, Python  e Power BI. 
 
@@ -9,4 +9,7 @@ Para tal, foi utilizado SQL para responder perguntas de negócio e o Power BI pa
 
 
 Dashboard Interativo:
+
 ![image](https://github.com/Sabr2na/Projeto1-/assets/156133566/bba5a9e7-0e4c-44d1-bdc3-fa116291a4fc)
+
+
