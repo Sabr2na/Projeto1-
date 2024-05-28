@@ -19,7 +19,8 @@ Dashboard Interativo:
 
 
 
-Ferramentas
+# Ferramentas
+
 Para a execução dessa análise, foram utilizadas algumas ferramentas, tais quais:
 - **SQL**: As consultas foram estruturadas através do *pgAdmin*, utilizando o PostgreSQL. 
 - **Python (Google Colab)**: Para realizar a conexão das tabelas .csv com PostgreSQL. 
