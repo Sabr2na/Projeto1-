@@ -4,7 +4,7 @@ Projeto de análise de dados com SQL, Python  e Power BI.
 
 Este projeto consiste em uma análise de dados do Smart Negócios, uma plataforma de compra e venda de produtos usados. 
 
-Para tal, foi utilizado SQL para responder perguntas de negócio e o Power BI para visualização geral dos números disponíveis da empresa, e Python para importar os arquivos CSV para o SQL e realizar uma predição dos próximos meses. 
+Para tal, foi utilizado SQL para responder perguntas de negócio, Power BI para visualização geral dos números disponíveis da empresa e Python para a criação da conexão com o banco, para fazer carga dos dados na tabela do PostgreSQL e realizar uma predição dos próximos meses. 
 
 
 
@@ -23,7 +23,7 @@ Dashboard Interativo:
 
 Para a execução dessa análise, foram utilizadas algumas ferramentas, tais quais:
 - **SQL**: As consultas foram estruturadas através do *pgAdmin*, utilizando o PostgreSQL. 
-- **Python (Google Colab)**: Para realizar a conexão das tabelas .csv com PostgreSQL. 
+- **Python (Google Colab)**: Fazer as cargas dos dados em .cscv par a tabela no Postgres e realizar a predição. 
 - **Microsoft Power BI**: O dashboard do projeto foi construído com o uso do software, com a necessidade da criação de algumas funções em DAX para a construção das visualizações.
 
 
