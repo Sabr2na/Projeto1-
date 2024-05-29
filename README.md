@@ -26,6 +26,30 @@ Para a execução dessa análise, foram utilizadas algumas ferramentas, tais qua
 - **Python**: Fazer as cargas dos dados em .cscv para a tabela no Postgres, e realizar a predição. (Bibliotecas utilizadas: Pandas e matplotlib) 
 - **Microsoft Power BI**: O dashboard do projeto foi construído com o uso do software, com a necessidade da criação de algumas funções em DAX para a construção das visualizações.
 
+# Perguntas de Negócio 
+
+1 - Qual montante de transações do mês? 
+O Montante de transações no mês foi de R$3550 
+2 - Quantas transações por tipo foram realizadas? 
+Foram 3 transferências, 3 vendas e 4 compras. 
+3- Qual montante de movimentações por cliente? 
+"Ana Lima"	1050
+"João Silva"	600
+"Maria Santos"	1300
+"Pedro Oliveira"	600
+4- Qual montante  por região? 
+"Centro - Oeste"	1650
+"Nordeste"	1900
+
+
+
+
+
+
+
+
+
+
 
 
 
