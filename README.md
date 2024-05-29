@@ -23,7 +23,7 @@ Dashboard Interativo:
 
 Para a execução dessa análise, foram utilizadas algumas ferramentas, tais quais:
 - **SQL**: As consultas foram estruturadas através do *pgAdmin*, utilizando o PostgreSQL. 
-- **Python (Google Colab)**: Fazer as cargas dos dados em .cscv par a tabela no Postgres e realizar a predição. 
+- **Python**: Fazer as cargas dos dados em .cscv para a tabela no Postgres, e realizar a predição. (Bibliotecas utilizadas: Pandas e matplotlib) 
 - **Microsoft Power BI**: O dashboard do projeto foi construído com o uso do software, com a necessidade da criação de algumas funções em DAX para a construção das visualizações.
 
 
