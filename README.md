@@ -39,6 +39,7 @@ Foram 3 transferências, 3 vendas e 4 compras.
 "João Silva"	600
 "Maria Santos"	1300
 "Pedro Oliveira"	600
+
 4- Qual montante  por região? 
 "Centro - Oeste"	1650
 "Nordeste"	1900
