@@ -30,8 +30,10 @@ Para a execução dessa análise, foram utilizadas algumas ferramentas, tais qua
 
 1 - Qual montante de transações do mês? 
 O Montante de transações no mês foi de R$3550 
+
 2 - Quantas transações por tipo foram realizadas? 
 Foram 3 transferências, 3 vendas e 4 compras. 
+
 3- Qual montante de movimentações por cliente? 
 "Ana Lima"	1050
 "João Silva"	600
